@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+This is my page, welcome) 🌱
+⚡ I am learning: 
+  -JS 
+  -HTML / CSS 
+  -TypeScript 
+  -React 
+  -NextJS 
+  -ReactNative 
+  -expressJS
+⚡
+
 <!--
 **Pawlord/Pawlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
