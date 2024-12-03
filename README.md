@@ -8,7 +8,6 @@ This is my page, welcome) 🌱
   -React 
   -NextJS 
   -ReactNative 
-  -expressJS
 ⚡
 
 <!--
